@@ -35,9 +35,45 @@ In this project, I learned how to make API calls, handle the retrieved data, and
 
 1. Clone the repository:
    ```bash
-<<<<<<< HEAD
    git clone https://github.com/tu_usuario/tu_repositorio.git
-=======
+
+# WeatherApp
+
+WeatherApp is a React application that provides weather information for a specified location. This project was a significant learning experience and my first project using React.
+
+## Overview
+
+In this project, I learned how to make API calls, handle the retrieved data, and display the necessary information. I also learned how to transfer data between components and render them accordingly. Additionally, I explored different ways of adding CSS to components and chose to use CSS modules for better readability and organization. It was a great challenge, and I am very happy to have created a functional application using React.
+
+## Features
+
+- Fetches weather data from the OpenWeatherMap API.
+- Displays current weather conditions including temperature, humidity, and description.
+- Dynamically changes the background color and icons based on weather conditions.
+- Utilizes CSS modules for styling components.
+
+## Lessons Learned
+
+1. **API Calls and Data Handling**: I learned how to make API calls using `fetch`, handle the responses, and manage errors. 
+2. **Data Transfer Between Components**: I learned how to pass data between parent and child components using props.
+3. **CSS Modules**: I explored different methods of adding CSS to React components and chose CSS modules for their encapsulation and modularity.
+4. **Dynamic Class Changes**: I learned how to dynamically change classes of components based on conditions, which allowed me to display different images corresponding to weather conditions.
+
+## Screenshots
+
+### Sunny Weather
+![Sunny](./src/images/sunnyExample.png)
+
+### Rainy Weather
+![Rainy](./src/images/rainExample.png)
+
+### Cloud Weather
+![Snowy](./src/images/cloudyExample.png)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
    git clone https://github.com//Hery8910/Weather_App
 
 2. Clone the repository:
@@ -64,4 +100,3 @@ In this project, I learned how to make API calls, handle the retrieved data, and
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
->>>>>>> ba52a4c454e91cb2cd6898caacd76808ab7e14b0
