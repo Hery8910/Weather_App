@@ -35,4 +35,29 @@ In this project, I learned how to make API calls, handle the retrieved data, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com//Hery8910/Weather_App
+
+2. Clone the repository:
+      ```bash
+   cd Weather_App
+      
+3. Install dependencies:
+      ```bash
+   npm install
+4. Start the development server:
+      ```bash
+   npm start
+
+## Usage
+1. Open the application in your browser.
+2. Enter the name of a city in the input field.
+3. Click on "Get Weather" to fetch and display the weather information
+
+## Technologies Used
+-React
+-JavaScript
+-CSS Modules
+-OpenWeatherMap API
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
