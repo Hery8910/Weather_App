@@ -23,13 +23,13 @@ In this project, I learned how to make API calls, handle the retrieved data, and
 ## Screenshots
 
 ### Sunny Weather
-![Sunny](path_to_sunny_image.png)
+![Sunny](./src/images/sunnyExample.png)
 
 ### Rainy Weather
-![Rainy](path_to_rainy_image.png)
+![Rainy](./src/images/rainExample.png)
 
 ### Snowy Weather
-![Snowy](path_to_snowy_image.png)
+![Snowy](./src/images/cloudyExample.png)
 
 ## Installation
 
