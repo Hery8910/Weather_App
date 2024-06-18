@@ -67,8 +67,8 @@ In this project, I learned how to make API calls, handle the retrieved data, and
 ### Rainy Weather
 ![Rainy](./src/images/rainExample.png)
 
-### Cloud Weather
-![Snowy](./src/images/cloudyExample.png)
+### Cloudy Weather
+![Cloudy](./src/images/cloudyExample.png)
 
 ## Installation
 
