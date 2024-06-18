@@ -1,0 +1,110 @@
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5rem;
+  gap: 3rem;
+  position: relative;
+  font-family:  Arial, Helvetica, sans-serif;
+}
+
+.box {
+  border-radius: 10px;
+  padding: 1rem;
+  background: rgb(255,255,255);
+  background: linear-gradient(45deg, rgba(255,255,255,1) 0%, rgba(128, 225, 225, 0.766) 100%);
+  box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
+}
+
+.display {
+  padding: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family:  Helvetica, Arial, sans-serif;
+  box-shadow:  20px 20px 60px #bebebe,
+  -20px -20px 60px #ffffff;
+  border-radius: 10px;
+  background-color: #bebebe;
+}
+
+
+h1 {
+  margin-bottom: 4rem;
+}
+.section_div {
+  padding: 1rem;
+  border-radius: 5px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: hsla(0, 0%, 100%, 0.75);
+}
+
+h2 {
+  font-size: 6rem;
+  font-weight: 900;
+  margin-top: 6rem;
+}
+
+.min_max {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  font-weight: 100;
+  font-size: 1.5rem;
+
+}
+
+table {
+ width: 100%;
+ text-align: center;
+ padding: .3rem;
+ margin-top: 2rem; 
+}
+
+.thunderstorm {
+  background-image: url("../images/stormDay.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.rain {
+  background-image: url("../images/rainDay.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.snow {
+  background-image: url("../images/snowDay.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wind {
+  background-image: url("../images/windDay.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.clearSky {
+  background-image: url("../images/clearSkyDay.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cloudy {
+  background-image: url("../images/cloudyDay.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
