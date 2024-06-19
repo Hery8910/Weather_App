@@ -49,7 +49,7 @@ function WeatherApp() {
     };
 
     getDate();
-    const apiKey = "43b963a2ae423ed7632c3b716a73823a";
+    const apiKey = "Your API Key";
     const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${apiKey}`;
     console.log(apiUrl);
 
